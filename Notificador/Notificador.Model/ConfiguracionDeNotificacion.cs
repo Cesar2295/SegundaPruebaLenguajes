@@ -14,5 +14,7 @@ namespace Notificador.Model
 
         public int HoraNotificacion { get; set; }
 
+       
+
     }
 }
